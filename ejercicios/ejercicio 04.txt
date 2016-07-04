@@ -1,0 +1,17 @@
+Hacer los ejercicios de las siguientes páginas:
+
+
+http://www.w3schools.com/css/css_boxmodel.asp 
+
+http://www.w3schools.com/css/css_dimension.asp 
+
+http://www.w3schools.com/css/css_positioning.asp (hacer entre todos)
+
+http://www.w3schools.com/css/css_align.asp 
+
+http://www.w3schools.com/css/css_padding.asp
+
+http://www.w3schools.com/css/css_margin.asp
+
+http://flexboxfroggy.com/
+
